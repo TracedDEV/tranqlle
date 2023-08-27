@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">I'm a 15 year old learning developer.</h3>
+<h3 align="center">Hello, i'm Traced a young self-taught fullstack developer.</h3>
 
 ###
 
