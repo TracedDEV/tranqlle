@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Hello, i'm Traced a young self-taught fullstack developer.</h3>
+<h3 align="center">Hello, i'm Traced a young self-taught developer.</h3>
 
 ###
 
