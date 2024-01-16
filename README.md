@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="[https://avatars.githubusercontent.com/u/140763545?s=400&u=083db6ce9f29777284b8e26ee512a6ddd137c0e7&v=4](https://github-readme-stats.vercel.app/api?username=traced-dev&show_icons=true&theme=transparent)"  />
+  <img height="100" src="https://avatars.githubusercontent.com/u/140763545?s=400&u=083db6ce9f29777284b8e26ee512a6ddd137c0e7&v=4"  />
 </div>
 
 ###
@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=traced-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=traced-dev&show_icons=true&theme=transparent"  />
 </div>
 
 ###
