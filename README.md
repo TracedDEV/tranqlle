@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="center">Hey, I'm Traced 🙋🏽‍♂️</h1>
+<h1 align="center">Hey, I'm tranqlle 🙋🏽‍♂️</h1>
 
 ###
 
-<h3 align="center">Hello, i'm Traced a young self-taught developer.</h3>
+<h3 align="center">Hello, i'm tranqlle a young self-taught developer.</h3>
 
 ###
 
